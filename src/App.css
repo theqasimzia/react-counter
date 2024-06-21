@@ -48,3 +48,7 @@
   min-height: 50px;
   min-font-size: 12px;
 }
+
+.negative {
+  background-color: #ff5722; /* Orange color */
+}
